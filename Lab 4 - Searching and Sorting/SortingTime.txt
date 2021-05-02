@@ -1,0 +1,4 @@
+InterchangeSort take 0.00300 seconds
+BubbleSort take 0.00300 seconds
+InsertionSort take 0.00000 seconds
+SelectionSort take 0.00200 seconds
